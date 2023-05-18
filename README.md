@@ -50,6 +50,17 @@
 ## OUTPUT
 ![N1](https://github.com/NivethaKumar30/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559844/f2f18da2-dff4-40cd-86b1-ba9f86bad4f0)
 
+Smooth Rod : a metal rod usually used on the axis for components such as the X-carriage or print bed of a RepRap to slide 
+
+Bearing : a machine element that constrains relative motion to only the desired motion, and reduces friction between moving parts
+
+Idler :a gear wheel that is inserted between two or more other gear wheels
+
+Extruder: a metal forming process in which metal or work piece is forced to flow through a die to reduce its cross section or convert it into desire shape
+
+Motor: a device for converting electrical energy into mechanical energy in the form of rotation.
+n engineering mechanics, a motor is a device that converts electrical or mechanical energy into rotational or linear motion. Motors play a crucial role in various applications across different industries, including manufacturing, transportation, robotics, and automation. They are used to generate mechanical power and drive machinery, equipment, and systems.
+
 ![N2 ](https://github.com/NivethaKumar30/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559844/19890fab-2d1e-4660-b801-97368ae6d4e0)
 
 ![N3 ](https://github.com/NivethaKumar30/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559844/87f01499-cabe-4619-ab3c-0158bbe57036)
