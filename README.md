@@ -112,7 +112,8 @@ Z-Axis Top Cover :
  
  A motor is an electromechanical device that converts electrical energy into mechanical energy to produce motion or perform work. It is a fundamental component in various machines, devices, and systems across multiple industries.
 
-Complete axis assembly
+
+![N4 ](https://github.com/NivethaKumar30/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559844/121e1474-0985-4a92-a8bb-750db0e10e7b)
 
 Frame :
 
@@ -146,10 +147,8 @@ Spool :
 
 In 3D printing, a spool refers to a cylindrical reel or roll that holds the filament material used for printing. Filament, such as PLA or ABS, is typically sold on spools as a long, thin strand wound in a tight coil.
 
+
 Playing with Axis:
-
-![N4 ](https://github.com/NivethaKumar30/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559844/121e1474-0985-4a92-a8bb-750db0e10e7b)
-
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
