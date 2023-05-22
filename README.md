@@ -112,6 +112,42 @@ Z-Axis Top Cover :
  
  A motor is an electromechanical device that converts electrical energy into mechanical energy to produce motion or perform work. It is a fundamental component in various machines, devices, and systems across multiple industries.
 
+Complete axis assembly
+
+Frame :
+
+In 3D printing, the frame refers to the structural framework or chassis that provides support, stability, and rigidity to the entire 3D printer. It serves as the foundation on which all other components, including the print bed, print head, motors, electronics, and motion systems, are mounted.
+
+Y-Axis assembly :
+
+the Y-axis assembly refers to the component of the printer responsible for the movement along the Y-axis. It is one of the essential parts of a typical Cartesian 3D printer, which uses three perpendicular axes (X, Y, and Z) to build objects layer by layer.
+
+Z-Axis Assembly :
+
+the Z-axis assembly refers to the component of the printer responsible for the vertical movement or height adjustment of the printhead or build platform. It is another essential part of a typical Cartesian 3D printer, along with the X-axis and Y-axis assemblies.
+
+X-Axis Assembly :
+
+In 3D printing, the X-axis assembly refers to the component of the printer responsible for the horizontal movement along the X-axis. It is one of the essential parts of a typical Cartesian 3D printer, along with the Y-axis and Z-axis assemblies.
+
+SMPS :
+
+SMPS stands for Switched Mode Power Supply, and it is an important component used in 3D printing systems, specifically in the power supply unit (PSU). The PSU is responsible for converting the input voltage (typically AC power from the mains) into the required DC voltage to power the various components of the 3D printer.
+
+LCD :
+
+LCD stands for Liquid Crystal Display. LCD technology is commonly used in resin-based 3D printers, also known as Digital Light Processing (DLP) or Masked Stereolithography (MSLA) printers.
+
+Spool Holder :
+
+A spool holder is an accessory used in 3D printing to hold the filament spool securely while it feeds the filament into the 3D printer. Filament spools typically come in different sizes and are made of plastic or other materials. They contain the filament, which is the material used for printing, such as PLA or ABS.
+
+Spool :
+
+In 3D printing, a spool refers to a cylindrical reel or roll that holds the filament material used for printing. Filament, such as PLA or ABS, is typically sold on spools as a long, thin strand wound in a tight coil.
+
+Playing with Axis:
+
 ![N4 ](https://github.com/NivethaKumar30/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559844/121e1474-0985-4a92-a8bb-750db0e10e7b)
 
 
