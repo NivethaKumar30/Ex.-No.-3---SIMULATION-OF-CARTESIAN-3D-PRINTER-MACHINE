@@ -72,6 +72,10 @@ Y-Axis Supporter :
 
    The Y-axis supporter in a 3D printer machine refers to the structural component or mechanism that supports and guides the movement along the Y-axis. 
    
+Horiz. & Vertical Threaded Rod : 
+
+A horizontal threaded rod is typically used in a 3D printer to drive the movement along the X-axis or Y-axis. A vertical threaded rod, also known as a lead screw, is commonly used to control the movement along the Z-axis in a 3D printer.
+   
 Smooth Rod :
    
    A smooth rod, also known as a linear shaft or linear rod, is a cylindrical component used in various applications, including 3D printer machines, CNC machines, robotics, and other precision mechanisms.
