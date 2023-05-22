@@ -64,7 +64,35 @@ Extruder: a metal forming process in which metal or work piece is forced to flow
 Motor: a device for converting electrical energy into mechanical energy in the form of rotation.
 n engineering mechanics, a motor is a device that converts electrical or mechanical energy into rotational or linear motion. Motors play a crucial role in various applications across different industries, including manufacturing, transportation, robotics, and automation. They are used to generate mechanical power and drive machinery, equipment, and systems.
 
+Y-axis assembly
+
 ![N2 ](https://github.com/NivethaKumar30/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559844/19890fab-2d1e-4660-b801-97368ae6d4e0)
+
+Y-Axis Supporter :
+
+   The Y-axis supporter in a 3D printer machine refers to the structural component or mechanism that supports and guides the movement along the Y-axis. 
+   
+Smooth Rod :
+   
+   A smooth rod, also known as a linear shaft or linear rod, is a cylindrical component used in various applications, including 3D printer machines, CNC machines, robotics, and other precision mechanisms.
+   
+Pulley :    
+
+   A pulley in the Y-axis assembly refers to a pulley system incorporated into a mechanism or assembly specifically designed for vertical movement along the Y-axis.
+
+Motor :
+
+   A motor in the Y-axis assembly refers to a motor that is incorporated into a mechanism or system designed to move an object along the vertical or Y-axis direction.
+   
+Y-Axis Frame :
+
+   The Y-axis frame refers to the structural framework or assembly that supports and guides movement along the Y-axis in a mechanical system
+   
+Y-Axis Base :
+
+   The Y-axis base refers to the foundation or supporting structure upon which the Y-axis assembly is mounted or attached.
+     
+Z-axis assembly:
 
 ![N3 ](https://github.com/NivethaKumar30/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559844/87f01499-cabe-4619-ab3c-0158bbe57036)
 
