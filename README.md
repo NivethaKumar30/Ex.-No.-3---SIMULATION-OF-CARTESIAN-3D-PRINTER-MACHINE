@@ -48,6 +48,9 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
+
+X-axis assembly
+
 ![N1](https://github.com/NivethaKumar30/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559844/f2f18da2-dff4-40cd-86b1-ba9f86bad4f0)
 
 Smooth Rod : a metal rod usually used on the axis for components such as the X-carriage or print bed of a RepRap to slide 
@@ -71,8 +74,6 @@ n engineering mechanics, a motor is a device that converts electrical or mechani
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 
-
-## Output:
 
 ### Name: NIVETHA K 
 ### Register Number:212222230102
