@@ -96,6 +96,18 @@ Z-axis assembly:
 
 ![N3 ](https://github.com/NivethaKumar30/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559844/87f01499-cabe-4619-ab3c-0158bbe57036)
 
+Z-Axis Rod :
+
+The Z-axis rod, also known as the vertical or height rod, is a component of a mechanical system that enables vertical movement along the Z-axis. It is commonly found in various applications, including CNC machines, 3D printers, and robotic systems.
+
+Z-Axis Top Cover :
+
+ The Z-axis top cover refers to a protective cover or enclosure that is positioned at the top of the Z-axis assembly in a mechanical system. It is designed to provide protection, safety, and sometimes aesthetic appeal to the components located in the upper portion of the Z-axis.     
+ 
+ Motor :
+ 
+ A motor is an electromechanical device that converts electrical energy into mechanical energy to produce motion or perform work. It is a fundamental component in various machines, devices, and systems across multiple industries.
+
 ![N4 ](https://github.com/NivethaKumar30/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559844/121e1474-0985-4a92-a8bb-750db0e10e7b)
 
 
